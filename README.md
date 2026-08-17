@@ -37,3 +37,13 @@ To optimize Decision Tree hyperparameters using GridSearchCV.
 To perform hyperparameter optimization using RandomizedSearchCV.
 To explore Bayesian optimization using Optuna.
 To evaluate and compare the performance of different models.
+
+## Technologies Used
+
+- **Python** — Programming language
+- **NumPy** — Numerical computation
+- **Pandas** — Data manipulation and analysis
+- **Matplotlib** — Data visualization
+- **Scikit-learn** — Machine learning and model evaluation
+- **Optuna** — Hyperparameter optimization
+- **Jupyter Notebook** — Development and experimentation
